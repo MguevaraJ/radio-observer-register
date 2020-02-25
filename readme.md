@@ -7,8 +7,6 @@
 
 This project is a *practice* mainly using the *Observer* and *Singletone* design patterns in *a simple application*.
 
-------------
-
 ## Getting Started
 
 #### 1. Clone the repository.
@@ -18,9 +16,6 @@ We are located in the directory where we want to locate the project and clone th
 ```
 $ git clone https://github.com/MguevaraJ/lister-fetch.git
 ```
-
-------------
-
 #### 2. Choose how you want to run the application.
 
 You can run the application in two ways:
