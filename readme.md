@@ -1,10 +1,10 @@
 <h1 align="center">📻 Radio</h1>
 <h4 align="center">An application that registers stations and their codes using observers.</h4>
 
-![pagetr](https://user-images.githubusercontent.com/46603674/75245238-b53a3d00-57a3-11ea-82d8-408c005e9c6d.png)
+![pagetr](https://user-images.githubusercontent.com/46603674/75246664-9ee1b080-57a6-11ea-923f-5b07d7cb43f3.png)
 
 ## Description
-------------
+
 This project is a *practice* mainly using the *Observer* and *Singletone* design patterns in *a simple application*.
 
 ------------
