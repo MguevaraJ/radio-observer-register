@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="initial-scale=1, width=device-width">
+	<title>Typescript</title>
+	<link rel="stylesheet" type="text/css" href="./master.css">
+</head>
+<body>
+	<form class="stationForm" id="stationForm">
+		<img class="stationForm__image" src="./assets/icons/radio.svg">
+		<input type="text" name="name" placeholder="Name" class="stationForm__name-field" id="nameStation">
+		<input type="text" name="code" placeholder="Code" class="stationForm__code-field" id="codeStation">
+		<button class="stationForm__submit-button" id="submitStation">Submit</button>
+	</form>
+	<div class="stationList" id="stationList">
+		<h2 class="stationList__title">Active Stations</h2>
+		<div class="stationList__item-container" id="itemContainer"></div>
+		<div class="stationList__cursor" id="stationListCursor">
+			<img src="./assets/icons/arrow-open.svg" class="stationList__cursor-icon" id="stationListCursorImage">
+		</div>
+	</div>
+	<script defer type="module" src="./dist/index.js"></script>
+</body>
+</html>

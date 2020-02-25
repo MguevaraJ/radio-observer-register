@@ -1,0 +1,20 @@
+{
+  "name": "Radio",
+  "version": "1.0.0",
+  "description": "An application that registers stations and their codes using observers.",
+  "main": "index.ts",
+  "scripts": {
+    "build:tsc": "tsc",
+    "watch:tsc": "tsc --watch"
+  },
+  "keywords": ["Observer", "Singletone", "Desing Patterns"],
+  "author": "Moises Alejandro Guevara Jauregui",
+  "license": "GPL",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MguevaraJ/radio-observer-register.git"
+  }
+}
