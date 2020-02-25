@@ -5,7 +5,7 @@
 
 ## Description
 
-This project is a *practice* mainly using the *Observer* and *Singletone* design patterns in *a simple application*.
+This project is a **practice** mainly using the **Observer** and **Singletone** design patterns in **a simple application**.
 
 ## Getting Started
 
