@@ -9,7 +9,7 @@
   },
   "keywords": ["Observer", "Singletone", "Desing Patterns"],
   "author": "Moises Alejandro Guevara Jauregui",
-  "license": "GPL",
+  "license": "GPL-3.0",
   "devDependencies": {
     "typescript": "^3.7.5"
   },
